@@ -1,0 +1,12 @@
+.socialmedia li{
+    width: 10x;
+    height: 10px;
+    list-style-type: none;
+    display: inline-block;
+    margin: 5px;
+}
+
+nav{
+    background-color: bisque;
+    list-style-type: none;
+}
